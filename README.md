@@ -6,4 +6,4 @@
 - Open the folder in VScode
 - Now you're all set up to test it !!
 
-  ps: make sure to have python and all the needed libraries installed in your machine
+ps: make sure to have python and all the needed libraries installed in your machine
